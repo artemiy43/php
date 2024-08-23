@@ -1,5 +1,6 @@
 <?php 
 
-echo 'Amit...'
+echo 'Amit...';
+echo 'Amit...';
 
 ?>
